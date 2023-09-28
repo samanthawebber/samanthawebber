@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @samanthawebber
-- 💞️ I’m happy to collaborate on fun RoR projects!
+- 👋 @samanthawebber
 - 📫 Shoot me a message @ samantha.webber@protonmail.com
 
 <!---
